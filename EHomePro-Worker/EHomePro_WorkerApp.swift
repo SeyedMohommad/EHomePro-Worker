@@ -11,7 +11,8 @@ import SwiftUI
 struct EHomePro_WorkerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            SwitchView()
         }
     }
 }
